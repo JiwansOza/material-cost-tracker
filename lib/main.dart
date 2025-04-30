@@ -26,7 +26,7 @@ class AppData extends ChangeNotifier {
         name: 'Aluminum',
         unitCost: 5.0,
         unitType: 'kg',
-        stock: 100,
+        stock: 19,
         qrCode: 'QR2'),
   ];
   final List<ProductionLog> _productionLogs = [];
