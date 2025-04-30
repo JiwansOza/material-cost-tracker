@@ -19,7 +19,7 @@ class AppData extends ChangeNotifier {
         name: 'Steel',
         unitCost: 10.0,
         unitType: 'kg',
-        stock: 50,
+        stock: 87,
         qrCode: 'QR1'),
     MaterialItem(
         id: 'M2',
