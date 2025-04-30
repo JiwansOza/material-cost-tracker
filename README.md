@@ -46,5 +46,4 @@ Usage Guide
 Contributing
 Contact
 For queries and support, reach out via:
-- Email: tirthchhatrala@gmail.com
 - GitHub Issues: SmartFab Material Tracking & Costing App
