@@ -27,7 +27,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/TirthChhatrala/Flutter-based-Material-Tracking-Costing-App.git
+   git clone https://github.com/JiwansOza/Flutter-based-Material-Tracking-Costing-App.git
 Navigate into the project directory:cd smartfab-material-tracking
 
     cd smartfab-material-tracking
